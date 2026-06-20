@@ -1,2 +1,13 @@
-# Azure-Network-Security
-Azure network security architecture, segmentation, firewall design, private connectivity, and Zero Trust networking documentation.
+## Security Documents
+
+- Azure Network Security Best Practices
+
+## Security Technologies
+
+- Azure Firewall
+- NSGs
+- Azure DDoS Protection
+- Private Endpoints
+- Azure Monitor
+- Network Watcher
+- Zero Trust Architecture
